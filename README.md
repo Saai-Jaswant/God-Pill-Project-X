@@ -3,26 +3,26 @@
 ## Table of Contents
 
 1. [Introduction](#introduction)
-2. [Preview](#preview)
-3. [Technologies Used](#technologies-used)
-4. [Installation](#installation)
+2. [Features](#Features)
+3. [Preview](#preview)
+4. [Technologies Used](#technologies-used)
+5. [Installation](#installation)
 
 ---
 
 ## Introduction
 
-The God-Pill™ Project X is an AI-driven health transparency platform designed to empower
-consumers by analyzing everyday product ingredients through barcode or QR code scanning.
-Utilizing a robust AI model trained on an extensive database of over one million products and ten
-thousand toxic ingredients, the platform delivers instant, science-based health ratings and
-alternative product suggestions. This project report provides a detailed evaluation of the
-platform’s technology, rating methodology, user experience, and impact on consumer safety and
-awareness. By decoding hidden chemical content and raising awareness about harmful
-ingredients such as parabens, phthalates, and synthetic fragrances, God-Pill™ Project X not only
-promotes healthier choices but also contributes to a growing movement towards clean living and
-regulatory accountability. This document explores the platform's current capabilities, analyzes its
-market positioning, and proposes strategic enhancements to further its mission of public health
-advocacy through AI-powered ingredient analysis.
+God-Pill™ Project X
+An AI-driven health transparency platform empowering consumers to make informed decisions about product ingredients.
+
+## Features
+•	Barcode/QR Code Scanning: Analyzes everyday product ingredients by scanning their codes.
+•	AI-Powered Analysis: Utilizes a robust AI model trained on an extensive database of over one million products and ten thousand toxic ingredients.
+•	Instant Health Ratings: Delivers immediate, science-based health ratings for scanned products.
+•	Alternative Suggestions: Recommends safer product alternatives, promoting healthier choices.
+•	Ingredient Transparency: Decodes hidden chemical content, raising awareness about harmful ingredients like parabens, phthalates, and synthetic fragrances.
+•	Promotes Clean Living: Contributes to the movement towards cleaner living and increased regulatory accountability.
+•	Public Health Advocacy: Aims to further its mission of public health advocacy through AI-powered ingredient analysis.
 
 ## Preview
   ![alt text](https://github.com/Saai-Jaswant/GodPill-X/blob/main/1.png)
