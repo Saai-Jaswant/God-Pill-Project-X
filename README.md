@@ -52,8 +52,7 @@ Follow these steps to set up the project locally:
 
 
 4. Run the application:
-
-  ```bash
+   ```bash
     [Command to run the project, e.g., npm start or python app.py]
 
 
