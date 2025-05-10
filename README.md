@@ -15,14 +15,19 @@
 
 ## Introduction
 
-GodPill-X is a [briefly describe what the project does, e.g., "cutting-edge solution for..."]. This project aims to [state the goal or problem it addresses]. Whether you're a [target audience], this repository provides [what value it provides].
-
+The God-Pill™ Project X is an AI-driven health transparency platform designed to empower
+consumers by analyzing everyday product ingredients through barcode or QR code scanning.
+Utilizing a robust AI model trained on an extensive database of over one million products and ten
+thousand toxic ingredients, the platform delivers instant, science-based health ratings and
+alternative product suggestions. This project report provides a detailed evaluation of the
+platform’s technology, rating methodology, user experience, and impact on consumer safety and
+awareness. By decoding hidden chemical content and raising awareness about harmful
+ingredients such as parabens, phthalates, and synthetic fragrances, God-Pill™ Project X not only
+promotes healthier choices but also contributes to a growing movement towards clean living and
+regulatory accountability. This document explores the platform's current capabilities, analyzes its
+market positioning, and proposes strategic enhancements to further its mission of public health
+advocacy through AI-powered ingredient analysis.
 ## Features
-
-- [Feature 1: e.g., High-performance...]
-- [Feature 2: e.g., Easy-to-use interface...]
-- [Feature 3: e.g., Scalable design...]
-- [Add more features as necessary]
   ![alt text](https://github.com/Saai-Jaswant/GodPill-X/blob/main/1.png)
   ![alt text](https://github.com/Saai-Jaswant/GodPill-X/blob/main/2.png)
   ![alt text](https://github.com/Saai-Jaswant/GodPill-X/blob/main/3.png)
@@ -35,10 +40,20 @@ GodPill-X is a [briefly describe what the project does, e.g., "cutting-edge solu
 
 This project leverages the following technologies:
 
-- [Programming Language/Framework 1, e.g., Python, React]
-- [Library/Tool 2, e.g., Flask, TailwindCSS]
-- [Database 3, e.g., PostgreSQL, MongoDB]
-- [Mention any other relevant tools or dependencies]
+The project requires the following tools and middleware for development and execution:
+Frontend:
+• Framework: Next.js (React-based framework)
+• Languages: JavaScript/TypeScript
+Backend:
+• Platform: Supabase (using PostgreSQL database and built-in authentication)
+• Language for AI module: Python or similar, implemented as a microservice or API
+Development Tools:
+• Code Editor: Visual Studio Code or equivalent
+• Package Manager: npm or yarn
+• Version Control: Git with platforms like GitHub
+• Runtime Environment: Node.js (for Next.js)
+AI Processing (Optional Cloud Integration):
+• GPU-based processing for image recognition and analysis (if hosted externally)
 
 ## Installation
 
