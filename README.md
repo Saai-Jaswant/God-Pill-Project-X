@@ -23,7 +23,14 @@ GodPill-X is a [briefly describe what the project does, e.g., "cutting-edge solu
 - [Feature 2: e.g., Easy-to-use interface...]
 - [Feature 3: e.g., Scalable design...]
 - [Add more features as necessary]
-
+  ![alt text](https://github.com/Saai-Jaswant/GodPill-X/blob/main/1.png)
+  ![alt text](https://github.com/Saai-Jaswant/GodPill-X/blob/main/2.png)
+  ![alt text](https://github.com/Saai-Jaswant/GodPill-X/blob/main/3.png)
+  ![alt text](https://github.com/Saai-Jaswant/GodPill-X/blob/main/4.png)
+  ![alt text](https://github.com/Saai-Jaswant/GodPill-X/blob/main/5.png)
+  ![alt text](https://github.com/Saai-Jaswant/GodPill-X/blob/main/6.png)
+  
+  
 ## Technologies Used
 
 This project leverages the following technologies:
