@@ -16,13 +16,13 @@ God-Pill™ Project X
 An AI-driven health transparency platform empowering consumers to make informed decisions about product ingredients.
 
 ## Features
-•	Barcode/QR Code Scanning: Analyzes everyday product ingredients by scanning their codes.
-•	AI-Powered Analysis: Utilizes a robust AI model trained on an extensive database of over one million products and ten thousand toxic ingredients.
-•	Instant Health Ratings: Delivers immediate, science-based health ratings for scanned products.
-•	Alternative Suggestions: Recommends safer product alternatives, promoting healthier choices.
-•	Ingredient Transparency: Decodes hidden chemical content, raising awareness about harmful ingredients like parabens, phthalates, and synthetic fragrances.
-•	Promotes Clean Living: Contributes to the movement towards cleaner living and increased regulatory accountability.
-•	Public Health Advocacy: Aims to further its mission of public health advocacy through AI-powered ingredient analysis.
+•	Barcode/QR Code Scanning: Analyzes everyday product ingredients by scanning their codes.</br>
+•	AI-Powered Analysis: Utilizes a robust AI model trained on an extensive database of over one million products and ten thousand toxic ingredients.</br>
+•	Instant Health Ratings: Delivers immediate, science-based health ratings for scanned products.</br>
+•	Alternative Suggestions: Recommends safer product alternatives, promoting healthier choices.</br>
+•	Ingredient Transparency: Decodes hidden chemical content, raising awareness about harmful ingredients like parabens, phthalates, and synthetic fragrances.</br>
+•	Promotes Clean Living: Contributes to the movement towards cleaner living and increased regulatory accountability.</br>
+•	Public Health Advocacy: Aims to further its mission of public health advocacy through AI-powered ingredient analysis.</br>
 
 ## Preview
   ![alt text](https://github.com/Saai-Jaswant/GodPill-X/blob/main/1.png)
